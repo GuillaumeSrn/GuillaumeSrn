@@ -4,3 +4,9 @@
 
 
 
+### Sites actuellement en ligne : 
+[Epsilon Software : Systeme BIOS complexe utilisé pour une utilisation dans un film](https://guillaumesrn.github.io/epsilon-software/)
+
+[Rat des tombolas (Détecteur tombolas Twitch pour le ZEvent)](https://guillaumesrn.github.io/ratdestombolas/)
+
+[Budoria : Journal CBD suivi, et banque de données CBD](https://budoria.app/)
