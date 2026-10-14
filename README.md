@@ -13,5 +13,5 @@
 
 
 
-Statistiques profil Gitlab interne :
+### Statistiques profil Gitlab interne :
 <img width="907" height="341" alt="Capture d’écran 2026-10-14 à 12 23 00" src="https://github.com/user-attachments/assets/193e101f-10f4-483d-a875-84816abe3078" />
